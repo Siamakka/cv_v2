@@ -1,3 +1,3 @@
-[# cv_v2
-cv_v2
+[# My resume website
+
 ](https://siamakka.github.io/cv_v2/)
