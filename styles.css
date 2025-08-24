@@ -488,3 +488,31 @@ hr {
 .card-content a:hover {
   color: #11999E;
 }
+
+.contact-phone {
+  display: inline-block;
+  margin-top: 20px;
+  font-size: 1.1rem;
+  color: #40514E;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.contact-phone:hover {
+  color: #11999E;
+}
+
+.contact-telegram {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 10px;
+  font-size: 1.1rem;
+  color: #40514E;
+  text-decoration: none;
+  transition: color 0.3s ease;
+}
+
+.contact-telegram:hover {
+  color: #11999E;
+}
